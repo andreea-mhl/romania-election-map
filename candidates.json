@@ -1,0 +1,5996 @@
+[
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MURESAN CORNELIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PISTRU EUSEBIU-MANEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PUIU OVIDIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "FLOROIU IONEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MOHAN AUREL-GEORGE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MOLDOVAN NICOLAE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "FEDEROVICI DOINA-ELENA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "DUNCA MARIUS-ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MOISE SORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "ROMASCANU LUCIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MALAIESCU LUCA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MIHAI DANIELA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CORDOS ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "STROE FELIX",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BARBU BOGDAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CORLATEAN TITUS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PRESURA ALEXANDRA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "HUMELNICU MARIUS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "POPESCU CRISTIAN-VICTOR PIEDONE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "RUJAN ION-CRISTINEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "VANCU MARCEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "RESMERITA CORNEL-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GRIGORE EMIL-CATALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CASCAVAL DAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CONSTANTINESCU ANDREEA-MARINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "VLASIN SORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MAZILU LIVIU-LUCIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MARGINEAN LUCIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PADURARU RADUCU-ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "STANESCU PAUL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "JIANU FLORIN-NICOLAE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "FEDORCA AURELIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GHIURCO DAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SANDRU MARCELA-LAVINIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "STAN IOAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CATANA CLAUDIU-DANIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "DOGARIU EUGEN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SIMION DRAGOS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "STOICIU VICTORIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BICA ANDRA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GRAUR CATALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "STREINU CERCEL ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TUDOR ANTONIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "VUSCAN VOICU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BARA NICOLAE-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "FIFOR MIHAI-VIOREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "HATEGAN OVIDIU-ALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BUCURA-OPRESCU SIMONA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MIHALCEA REMUS-GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "DUNAVA COSTEL-NECULAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BUDACA VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "ENE GABRIELA-CORINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MANG IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SUCIU VASILE-DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "IVAN BOGDAN-GRUIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "LIPA ELISABETA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BUDAI MARIUS-CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BUCUR ARIANA-OANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "HAGIU AUGUSTIN-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CIOCAN DOINITA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MIRCEA FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CIOLACU ION-MARCEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "NEAGU PETRE-EMANOIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "ISAC MARIUS-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MIHALCEA SILVIA-CLAUDIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SAMOILA ION",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BIRCA CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CIORTEA RAZVAN-IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "LAPUSAN REMUS-GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GEORGESCU GHEORGHE-DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MATICHESCU MIRELA-FLORENTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CUCU SEBASTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MARIN BOGDAN-STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PONTA VICTOR-VIOREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "NECULAESCU LAURENTIU-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CACIU ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GEAMANU AURORA-ADELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SANDU VIORICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MARGARIT MITICA-MARIUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MINA MARIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PINTUR ANDREI-IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "WEBER MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MANTA CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TEPES-FOCSA ROMEO",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "DEAC PETRUTA-GABRIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "INTOTERO NATALIA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TOMA ILIE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TINTA STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "DUMITRESCU RALUCA-GIORGIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "RAFILA ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "COJOCARU PETRU-BOGDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "VULPESCU IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "PRETORIAN CRISTIAN-STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CHILAT CRINA-FIORELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MORAR LUCIAN-IOAN-TITUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CHIRILA VIRGIL-ALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TOMOESCU ION-ALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GLIGA DUMITRITA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CRISTESCU RADU-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SERBAN CIPRIAN-CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "COTIRLET PAUL-CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "IANCU MARIUS-IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BARBU FLORIN-IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TOADER BOGDAN-ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GAVRILESCU GRATIELA-LEOCADIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GOVOR MIRCEA-VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "MICLE ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CIUNT IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "NEAGA FLORIAN-CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TRIF BOGDAN-GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BESCHIU DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BEJINARIU EUGEN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "ADOMNICAI MIRELA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "BORS GEORGE-MADALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "DRINCEANU VLAD-FLORENTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GRINDEANU SORIN-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "RADUCANU SEBASTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CONSTANTINESCU SERGIU-MIRCEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "VIZAUER LAVINIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "SOLOMON ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "RINDER ANA-SMARANDA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "POPA STEFAN-OVIDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "NEATA EUGEN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "TILVAR ANGEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "ANITEI MONICA-RALUCA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "GHIGIU ALEXANDRU-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "NASSAR RODICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CARCIU GHEORGHE-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL SOCIAL DEMOCRAT",
+        "Name": "CIOCAN IURIE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RACUCI CLAUDIU-VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VARGA GLAD-AUREL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COTET MIHAI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "FENECHIU CATALIN-DANIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BOLOJAN ILIE-GAVRIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TURC IOAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "JITARU OVIDIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VESTEA MIHAIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "STRACHINESCU MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BENCHESCU-PECINGINA CLAUDIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PAUN DIANA-LORETA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "DUMITRU FLORIAN-EMIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "ABRUDEAN MIRCEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COSA SILVIU-IULIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BORICEAN COSMIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "GURAN VIRGIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CIUCA NICOLAE-IONEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CITU FLORIN-VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "HORGA MARIA-GABRIELA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "POPESCU IULIAN-VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TRUTA SORIN-NICOLAE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MARIAN CALIN-PETRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PUFU VLAD-MIRCEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RUSU PETRICA LUCIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PAULIUC NICOLETA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "NICULESCU-TAGARLAS CRISTIAN-AUGUSTIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "FIRU STELA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TOGANEL CRISTINA-MARA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TAPU-NAZARE EUGEN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VASILE MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PREDOIU MARIAN-CATALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "POP ROMEO-LIVIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CHERECHES DAN-NICU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "NEAGU NICOLAE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "FLUTUR GHEORGHE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BARBU COSTEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BLAGA VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "IORDAN ALEXANDRU-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TRAILA CRISTINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "DECA LIGIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "IOAN RALUCA-GABRIELA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CIMPEANU SORIN-MIHAI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "DUPU ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "ROMAN FLORIN-CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RADU ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PISTRU-POPA SIMONA-GEANINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CADAR RAZVAN-OLIMPIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "GORGHIU ALINA-STEFANIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PERIANU RADU-VALERIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "FECHET MIRCEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "NASTASA CLAUDIU-CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MOS PATRICIA-SIMINA-ARINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TIPLEA DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "SIGHIARTAU ROBERT-IONATAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VLASIN DORIN-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MITITELU EDUARD-TATIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BULIGA LUCIANA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RUSU SEBASTIAN-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "ANDRONACHE GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "POPA ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MITESCU MARIUS-IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MOCANU ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "ROSIORU SILVIU-LAURENTIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VELA ION-MARCEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RUJAN DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PANDEA CIPRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "OBADA DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MOISIN RADU-MARIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CIMPEAN OVIDIU-VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "HUTUCA BOGDAN-IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CRUSOVEANU MARIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "FLOROIAN STELIAN-OLIMPIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "STOICA NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COTINESCU ILIE-AURELIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "DRUGA VLAD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "STOICA STEFAN-BUCUR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BUSOI CRISTIAN-SILVIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "SCARLAT GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "STANGA GEORGE-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "ANDREI ALEXANDRU-IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MATEI ANETA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "IORDACHE ION",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "SIRBU IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "LAZAR COSTEL-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RUNCAN PETRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "STANESCU VETUTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RADUCANU DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "SOARE DRAGOS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TELEHUZ DRAGOS-COSTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "MURARU IULIAN-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "AFLOAREI SORIN-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "GHEORGHE ANDREI-DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VOSGANIAN VARUJAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BOGDAN IONEL-OVIDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CICEU FELICIAN-GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CULEAFA MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "UDRISTE IULIU-ALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "DOBRE CIPRIAN-MINODOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "VLASA CRISTINA-ALINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CIOBANU ADRIAN-VIRGIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "LAZAR ADELINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "STIRBU GIGEL-SORINEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TIUTIU GHEORGHE-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "ROSCA MIRCEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "SERBAN GEORGE-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COZMA ADRIAN-FELICIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COSTEA CIPRIAN-DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BODE LUCIAN-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BAGAREAN MONICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "TURCAN RALUCA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "POPA VIRGIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BALAN IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "FADOR ANGELICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CONSTANTIN DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COZMANCIUC CORNELIU-MUGUREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "PIRTEA MARILEN-GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "COZAROV RAUL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "SISCU GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "GUDU MICHAEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "RUSU PETRU-CRISTINEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BARBU MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BUICAN CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CAZAN LAURENTIU-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CIOBOTARU DRAGOS-FANICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "CRETU ADRIAN-VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BURDUJA SEBASTIAN-IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL NATIONAL LIBERAL",
+        "Name": "BACIU ROMICA-ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CORCHES DOREL-VALER",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PUSCASU HORATIU-MIRCEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "FULGA MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "VARGA IOAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "COBRESCU VIRGIL-CATALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MANOLACHE VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "AMITITELOAIE ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "COLCEAG FLORIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PETREA DORIN-SILVIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "HOHOTA ELENA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MIHAESCU LONETA-LUMINITA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "RUSU IOAN-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NICULA FLORIAN-ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "SAVA CLEMENT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MINZALA ION",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ANTONIU FLORIN-SILVIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "JERDOIU NUTA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ONEA OLGA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "HORCIU NIK-GERALD",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PETRESCU ILIE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "URZICA ILIE-VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ALBU MARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PEIU GRIGORE-ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MANEA DUMITRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "DEACONEASA FLORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MIHALI GAVRILA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ISTODE MUGUREL-COSMIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TRIPON AVRAM",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GHEORGHE DANIEL-PAUL-ROMEO",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NEACSU VIOREL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PEIA NINEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "LAZEA MIRCEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "VERES MARIUS-SORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ISTOAN ZINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CUSNIR RODICA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GICA ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "SOCOL ALIN-DANIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CARP IONEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BEM CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BUSE SIMONA-LUCIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MACIUCA CERASELA-MARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "IOVANOVICI-SOSOACA DIANA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MANOLACHI DAN-FLORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BUMBU IOAN-GRUIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "VUSDEA GEORGIA-RAFAELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NAGY VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "KISS DAN-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "IONESCU TUDOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TUDOSE IULIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PASCALINI NINI-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CATANA MARIA-ALEXANDRA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "VIDRA VLAD-ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MARIAN ADRIAN-GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TOMOIAGA LAURENTIU-VASILICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "RADACINA FELICIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MOISEEV ALEXANDRIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "AMARANDEI DOINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GOIDESCU IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "RADU STEFAN-DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CONSTANTINESCU ANDRA-CLAUDIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CHIRIAC ALEXANDR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PLOPEANU RODICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PADUROIU VIOREL-MIRCEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "AXMANN DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MARUSCA ADELA-LIVIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CODRESCU IONEL-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MARIN VICTOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NAS SORIN-VALERIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ARON BOGDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "FAGET MADALIN-LAURENTIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PRICOP ALINA-MIHAELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GRIGORAS CORNEL-ION",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "SAS ILEANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GRASU GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NECULAI DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "COSTACHE MARIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CRETU FLORIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "JIANU IOSIF-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "SZŐKE ECATERINA-MARIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NAIPEANU IULIAN-MARIUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "RABINCA DAN-LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TULUGEA DANIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ELENA MIHAIL-FANICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "SERE CLAUDIU-ILIE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "IFTIME SORINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "LUPAS CLAUDIU-TEODOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "COSARIU PETRU-DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CARAGATA FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "OLTENASU SORIN-GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MACOVEI ILIE SIMONA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "RUSU DEMIS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BILTIU-DANCUS CORNELIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CHELARU CECILIA-ROCSANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "IUGA NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CONT EMANOIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CIOCOVEANU CATALIN-CORNEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GHEORGHE LIVIA-TATIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GIFU DANIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "IOSIF MARIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CIUBUC CIPRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "POPA MARIUS-LOREDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TIU MIHAI-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "DOMOZINA TIBERIUS-STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GUSA ANDREI-COSMIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CATRINA ANGELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "DEAC VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TOMA IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PÜSÖK FERENC",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CRISAN FLORINEL-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ION NICOLAE-MIREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BABES CAMELIA-MANUELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BAISANU STEFAN-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "LAZAROI IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "PUIU FLORIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GAJGAU SORIN-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BAS ANA-MARCELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "MARDARI LUDOVIC",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ANDREI COSMIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "TOADER ELENA-LAURA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "ENACHI RAISA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "RECLARU SIMONA-MANUELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "NICOLAE ION",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CONSTANTINESCU ELENA-ANDREEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "VEDINAS VERGINIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "GALATANU DORIN-MARIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "COARNA DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "VARGA MARIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "CIMPIANU ANDREEA-PETRONELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "PARTIDUL S.O.S. ROMANIA",
+        "Name": "BUGHIU IOLANDA-LUMINITA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "DIRLAU ANDREI-EMIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PARASCA TEOFIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CHELARU MIRCIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "STEFANESCU DANIELA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BLEJAN CIPRIAN-MIRCEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "COSMA DAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SILEGEANU CATALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BARCARI DORINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BALTASIU RADU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ROMAN MARIUS-VALENTIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PUREA PAUL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "DUMITRU MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SIPOS EUGEN-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VLAHU NICOLAE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "OBREJA MARIUS-LUCIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "IACOB CONSTANTIN-CIPRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VASILE MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CONSTANTINESCU RODICA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GUTA RARES",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SANDU MIRCEA-IONUT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ORBAN TIBOR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "POTECA VASILICA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "DOBRESCU VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "TARZIU CLAUDIU-RICHARD",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MIHALCEA SERGIU-DANIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CHERTIF COSTACHE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BACIU IONUT-SORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VANTU CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "LAVRIC SORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PETRE GEORGE-CEZAR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PLAESU LAURENTIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CONSTANTINOVICI VICTOR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "KOVACS VALER-SANDOR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PAUCEAN-FERNANDES LUMINITA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VLAESCU VIRGILIU-GEORGE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "POPESCU EUGEN-TIBERIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "STOICA CIPRIAN-TITI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CIOROMELEA VALENTIN-RICA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CHELMU SERGIU-SORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SPAU DUMITRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "NEGRU CORNELIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PEIU PETRISOR-GABRIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GEAMANU STEFAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MATIES CALIN-GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BOGDAN ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ARTIMON DAN-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PASCARIU MIHAI-COSMIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VELCESCU FLORIN-BOGDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BUTURA CRISTINA-IRINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ENACHE DIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ALECU ROBERT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "NEAMTU GEORGE-MIHAIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ZARNESCU SAMUEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BOSUTAR TIBERIU-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MARCU IOAN-VIOREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CIRLIGEANU ARIADNA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "STEFANESCU MATEI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "TANASA DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ZARA OVIDIU-DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CIRLIGEA FLORIN-EUGEN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "IRINDEA MIRELA-DANIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MUNCACIU SORIN-TITUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "DINU COZMIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MICLAU SAMUEL-VIRGIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CRETAN SERGIU-IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "COMAN DRAGOS-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GHEORGHE MIHAI-CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BRUYNSEELS RAMONA-IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "COLESA ILIE-ALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MURAD MOHAMMAD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PAUNESCU SILVIU-TITUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VARGA ROZALIA-DANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ILIE FLORENTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MUNTEANU VALERIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "NICOLESCU MARIA-LACRAMIOARA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "IOSUB COSMIN-TEODOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GHEORGHE IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BORDIAN ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VULPOIU DOREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PIPEREA GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CORENDEA COSMIN-IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PRIESCU IONELIA-FLORENTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "ZORLESCU ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VAIDA CRISTINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MARUSEAC EMIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BARSTAN TIBERIU-CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CATAN CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "OANCEA SILVIU-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "RADU PAROS-MIHAITA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PARASCHIV CIPRIAN-CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GURLUI SILVIU-OCTAVIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SERBAN GIANINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PANAIT ROBERT-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CIORNEI DANIEL-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CAMPAN DANIEL-IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "KOLER EDUARD-VIRGIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "COMBEI GABRIEL-FELLIX",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BIRO DANIEL-RAZVAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "POPESCU STELIAN-OVIDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MITREA DUMITRINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "NEACSU ANDREEA-FIRUTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MIHAESCU MUGUR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MILEA NICUSOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "AXINIA ADRIAN-GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "AVRAMESCU STEFANITA-ALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "IAGAR MONICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "IANCU VASILE-SORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MUSAT DORU-LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "LUCACI ANDREEA-IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "RADU FABIAN-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "CHIRA VASILE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "NEGREA PETRU-GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "PUSCASU LUCIAN-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "FLOREA GABRIEL-FLORINEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "TILEA DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "NEGOESCU MIHAI-BOGDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "POPOVICI FLORIN-CORNEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "DOBOS ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GEAMANA DRAGOS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "GHERASIM LAURA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SANDU IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "MINDRESCU NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "POPESCU ANTONIO-GABI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BADIU GEORGEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SUSANU SELENA-GABRIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "SIMION GEORGE-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "BECALI GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "LOVIN RAMONA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "ALIANTA PENTRU UNIREA ROMANILOR",
+        "Name": "VOLOSATII BORIS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "FÜLÖP SZABOLCS-SIMON",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PERO TAMAS-CAROL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PAMPEL RÉKA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "COJAN BEBI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "CSEKE ATTILA-ZOLTAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ANTAL ATTILA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SOMOGYI TAMÁS-LÉNÁRD",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MAGYAR ÁRPÁD",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BERTICI STEFAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SEGESVÁRI ROBERT-KÁROLY",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "CZEISZPERGER IZABELL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "LŐRINCZ CSILLA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "TASNADI ISTVAN-SZILARD",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DOMBI ATTILA-JÁNOS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "FEJÉR LÁSZLÓ-ÖDÖN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "GERÉB LÁSZLÓ",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BURA-MAKSAY STEFAN-PETRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "LUKÁCS EDIT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PAKÓ ZSOLT-GÁBOR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ÖTVÖS KOPPÁNY-BULCSÚ",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "TÁNCZOS BARNA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOCSIS ATTILA-LEVENTE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ZOLTAN-SIPOS TIMEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MARGINEAN IOAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOZMA ANDREI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PINTÉR ZSOLT-ISTVÁN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "FÜLÖP LÁSZLÓ-ZSOLT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NOVAK LEVENTE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ROMÁN ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "VERESS TÜNDE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BARTALIS IZABELLA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "TUROS LÓRÁND",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOVÁCS IRINA-ELISABETA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "OROSZ CSABA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "AMBRUS JÓZSEF",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "TAIZS JÁNOS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "IHASZ IOAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOZÁK RÓBERT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MAGYARI MONIKA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOCSIK EMERIC",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "AMBRUS ZSOMBOR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KŐVER ZOLTAN-JÁNOS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MAROSI-MELLES MÁRIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "CSEGEZI EDIT-SUSANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DEÁK-SZÉKELY SZILÁRD-LEVENTE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "FARAGO PETRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "VERES ATTILA-CSABA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "OANCEA-SZABO MONICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "RÁKOSI-SEIWARTH ILDIKÓ",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "POGAR LAURENTIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NOGHI-CRETU ANA-MARIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SZABÓ ÖDÖN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BIRÓ ROZÁLIA-IBOLYA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BUDAI GYŐRGY-GABOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SALLAK SZABOLCS-ERIK-PETRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SIMKÓ LAJOS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BÁNDI ANITA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KIRSCH GABRIEL-FRANCISC",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "VARGA NÁNDOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BOGOS ÁKOS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BARA ERZSÉBET",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KELEMEN ATTILA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "POGOCSAN FERDINAND",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BOGNAR IOSIF-ATILA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "HODOROG CRISTINA-KATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SÁNDOR GÁBOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "GÁBOR SZIDÓNIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "CSOMA BOTOND",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SZILAGYI DÓRA-EMESE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ÁCS SÁNDOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ANTAL ISTVÁN-JÁNOS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MIKLÓS ZOLTÁN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "GÁL KÁROLY",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ARROS ORSOLYA-BLANKA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DÁVID ENDRE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MASCULIC CSABA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "LEITNER RÓBERT-ATTILA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DEAK GYŐRGY",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BENEDEK MIKLÓS-ZOLTÁN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DUDAS ANNA-MARIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NAGY CARLA-MELINDA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MOLNÁR BOTOND",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NAGY ANDRÁS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KELEMEN HUNOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "HAJDU GÁBOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BORSAI ZOLTAN-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KUTASI CSABA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MERZA ANTON",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOVÁCS CSILLA-GYÖNGYI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SZABO-CSORBA ZSUZSANNA-EMESE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BALÁZS-BÉCSI KATALIN-ENIKÖ",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DEMETER ANDRAS-ISTVAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SOMODI ZOLTÁN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ZAHORANSZKI BRIGITTA-EVA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PAP ZSOLT-ISTVAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NEMES ERVIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BÉCZI CSILLA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "CSÉP ÉVA-ANDREA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "VASS LEVENTE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PEPENE DANIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "POLGÁR ÁRPÁD-CSABA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOVÁCS RICHÁRD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "PAZDERA NANDOR-EGON",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BODOCZI ANNAMÁRIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MADARAS HENRIETTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MAGYAR LORÁND-BÁLINT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NAGY SZABOLCS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SERES DENES",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "LUCZA ISTVAN-ATTILA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BENEDEK ZACHARIE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "BALAZS BOTOND",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "FEHER GABOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "RANCZ JUDIT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "VARGA HENRIETTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SIPOS ZOLTÁN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "MOLNAR ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SIPOS ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KATONA IBOLYA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "FEHÉR GYULA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KÁNTOR BOGLÁRKA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "SZENTES ANTAL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ANDO LASZLO-IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "GYŐRKI ROBERT-EDUARD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "KOVÁCS ZENKŐ-BERNADETT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "CSOMA JÓZSEF",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "NOVÁK CAROL-EDUARD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "ILLYES MARTON",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "DERZSI ÁKOS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "UNIUNEA DEMOCRATA MAGHIARA DIN ROMANIA",
+        "Name": "OROSZ ORSOLYA-ANNA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "NANU DANA-ELISABETA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RADITOIU FLAVIU-LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "WIENER ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DRONCA IULIAN-DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MOSTEANU LIVIU-IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MIHAILESCU MIHAI-IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "LAZAR TEODOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "NEGRU ANDREEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DEHELEAN SILVIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "SAITOS-COFAR TINCUTA-LACRIMIOARA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "TOTH ATTILA-LORAND",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RUS MARINEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "LACATUSU-ANDREI CRISTINA-ANETA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CURELARIU RALUCA-STEFANIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "COLIBAN ALLEN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PARASCHIVESCU OVIDIU-ROMULUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "STANCU IONUT-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "NICA PAUL-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ALECSANDRU MARIUS-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "STANESCU ROXANA-MARIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PLUJAR ANDREI GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BOIA CONSTANTIN-ADRIAN-NISTOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "GIURCAN AMELIA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "NICULAE VALENTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MURARIU OANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RIGMAN CIPRIAN-DORU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ION STELIAN-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "GIMA GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DULANYI-BALOGH SZILÁRD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MACOVEI RAZVAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BLAGA DANIEL-CODRUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CHIRITA IONUT-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DRAGOESCU CEZAR-MIHAIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PASCU PETRISOR-BOGDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RODEANU BOGDAN-IONEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "SUSNOSCHI-LUCA FLAVIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ALEXANDRU IONUT-CIPRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PARCALABESCU VALENTIN-GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MIRUTA RADU-DINEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "POPA IULIUS-CLAUDIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CIOBANU ADRIAN-GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "HANGAN POLLYANNA-HANELLORE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "SECUI ADRIAN-IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "IORDANESCU ANDREI-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ENACHE CARMEN-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "TANASA STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BERESCU MONICA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "VADUVA DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "STAMATE CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CRISTIAN BRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DEAC MIRCEA-AUREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "APOSTOL LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "OLTEANU DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "GIURGIU ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DANEASA DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BULAI IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "APOSTOL MARIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "GALAN GIGI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "IOTU ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MARUSSI GEORGE-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BULEARCA MARIUS-FELIX",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PANAIT RADU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CALIN MIRCEA-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "COSMA HORATIU-LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BOSTAN RAMONA-LAURA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ECHERT ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ZGRIPCEA CLAUDIU-GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "UNGUREANU EMANUEL-DUMITRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ANGHELEA MIHAI-DORU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "FIERASCU CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DRULA CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ROMOCEAN PAULA-ANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "TERENTE EUGEN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PAIUSAN IRINA-IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BOTEZ MIHAI-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CIOBOTARU OVIDIU-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "GHEORGHIU ANDREI-FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "UDREA ANDREEA-IULIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ATANASIU CORINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PURCAREA TUDOR-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "NASUI CLAUDIU-IULIUS-GAVRIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PRUNA CRISTINA-MADALINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "LŐRINCZ STEFAN - IULIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BOGDAN HORIA - DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ALBA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MARIS COSMINA-MARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ANGHEL RAZVAN-PAUL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MIRCESCU ION-NARCIS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CERNIC SEBASTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PALAGHIANU DANIEL-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "SINGEORZAN ARTENE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "OLENIUC MAGDA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DARAU AMBROZIE-IRINEU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CRETAN MIHAI-GABRIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PETRICEANU STEFAN-CONSTANTIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RAD BOGDAN-GHEORGHE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "COJOCEA MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RUS VASILE-CIPRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "NEGOI EUGEN-REMUS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "STRIMBEANU CALIN-MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "DOBRA ELENA-ADELINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BELU ION",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "STEFANACHE GHEORGHE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CAINARU CODRUT-VICTOR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "RADUCAN-MOREGA CORNELIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "COSA-POP EUGEN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BIRIS OANA-ANDREEA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "TANASESCU MIHAI-ANDREI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BODEA MARIUS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PAUN ANA-CYNTHIA-IOANA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "IVAN DAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CHIRIAC CLAUDIU-VALENTIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "COTOI DAN-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "IACOB VASILE-MANUEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "PIRLOGEA CATALIN-IONUT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "OPRINOIU AUREL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CRET DIANA-MARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ARDELEAN COSMIN-VASILE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "CIBU DEACONU RUXANDRA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "POPESCU NICOLAE-DANIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "UDROIU CAMELIA-MONICA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "SIPOS SORIN-GHEORGHE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BICOV STEFAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "MINDRU CATALIN-EMIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "SLUJITORU ILIE-MUGUREL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "TATARU ALEXANDRA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "ARMAND CLOTILDE-MARIE-BRIGITTE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "UNIUNEA SALVATI ROMANIA",
+        "Name": "BOCHILEANU GEORGE-CATALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TOC IONEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARAD",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "STEPAN-TATARU CARMEN-DANIELA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MIHAI ALEXANDRU-LUCIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BETA MIHAI-ANDREI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PAVEL ALINA-DIANA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MIC ADRIAN-IGNAT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GHERMAN MARINELA-CLAUDIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "IONESCU ADRIAN-EUGEN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MICU ANAMARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MOISE EMIL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GALANI OLIMPIU-EUGEN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "STRUT ALIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MIHALI CIPRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "POPESCU ANDREI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "LEPEDAT CIPRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MOLEAVIN ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PETRESCU MARIUS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "APOSTOL DORINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MUNTEANU BOGDAN-MARIUS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CIOCOIU ION-RADU-BOGDAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MELNICIUC DUMITRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DRAGHICI MIRCEA-ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "STANESCU ANA-ALINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SLABU ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TRIFU DANUT-ANGELO",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "KALMAR FLORIN-AURELIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DRAGOMIR MIHAI-MARIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "ENACHE SMARANDA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MINDRILA IOANA-RALUCA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PASARE FLORIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SAVA-MIHALCESCU MIHAI-VALENTIN-IONUT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "ILUT VASILE-STEFAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GRINDEAN IOANA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "OPREA DORU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "UNGUREANU MARIANA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "HATMANU LENUTA IRINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "JURMA PAUL-OCTAVIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BURTA FLORIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BLAJUT ANDREEA-PAULA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BAIASU NICOLAE-DANIEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PERISAN LIVIU-ADRIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BERCEANU OCTAVIAN-ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "OLARU MARIUS-OCTAVIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "RUSSU-COLDEA IOANA-FLORINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "HORNEA FLORIN-ADRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GARDAU MIHAELA-CAMELIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TUTU FLAVIA-NATALIE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DOROBANTU ANDREEA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CHIRITA CATALIN-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "HODOROG MONICA-STEFANIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "VINTER ROBERT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "ISTRATE ION-SORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BUHAI ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "NOVAC ALINA-IONELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "ADOMNITEI IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "POTERAS COSMIN-MARIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CORNEA LAURA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "RAILEANU VALENTIN-SORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MARISESCU ANTONIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "EPURESCU NICOLAE-GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SOARE IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DANCIU DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TOADER LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "STRUGARIU RAMONA-VICTORIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SALCUDEAN CAMELIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GHENCEA LUCIA-FLAVIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "STOIAN CRISTIAN-ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "FITAN CAMELIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MUNTEANU STELUTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "IOSIFESCU VICTOR-ION",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "STANGA CARMEN-RODICA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "POPESCU GABRIEL-EUGEN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DORDEA-LEONTE LAURA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "COMAN COSMIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DOROBANTU ROMEO-CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MARCOCI IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TIRBAN MARIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PETRARU ROBERT-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DRAGNEA CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "LÁSZLÓ LÓRÁND-DEZSŐ",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BOLD VIORICA-DELIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "FLOREA STEFAN-RAZVAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DAN ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PISLARU DRAGOS-NICOLAE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DRAGOI AURELIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TOADER BOGDAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DUMITRESCU IONEL-LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BARBUR FLORIN-GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MARIAN GHEORGHINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MUNTEANU GEO-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINŢI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "FLOREA MIHAELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SORESCU-VASILE IRINA-MARIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CINCA GHEORGHE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BLAJUT ISIDOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "ARMASU ANDREEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GHERGU NICOLAE-MARIUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "NEAGU MIHAI-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "MINCULESCU DIANA-MARIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CRISAN MIHAI-MARIUS",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SURULESCU IOAN-SORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PRUNEAN ALIN-COSTEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "POP ADRIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SAS LÓRÁNT-ZOLTAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DITA GEORGIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "DUMITRACHE ROXANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CIMPAN STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BABA ALICIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "GOGORITA MARINEL-LAURENTIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "CIOROIANU ADRIAN-MIHAIL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "VLADESCU RADU-GEORGE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "IVANOV MARCEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PARASCHIV VIOREL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "ANGHEL NICOLETA-CRISTINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SANGEORGEAN LUCIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "PAVAL MADALINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TUDOR IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "SECARA DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TENITA DRAGOS-CATALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "BUHUCEANU FLORIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "TULBURE SIMINA-GEANINA-DANIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "REINNOIM PROIECTUL EUROPEAN AL ROMANIEI",
+        "Name": "POMOHACI BOGDAN-CONSTANTIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PAUTA RAZVAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "POENARU OANA-CATALINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BACAU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BELCIU MADALINA-CRISTINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "TIU ELEONORA-IACINTA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CHEREJI FLORIN-SILVIU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "NEAGU CRISTINA-MARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ENCIU DUMITRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MARIN CONSTANTIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "FERHANE RODICA-GAROFINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "DOBRIN ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "GALBENU MIRCEA-MIHAI",
+        "Role": "SENAT"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "TOTORA SIMION-CRISTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CHIRCULESCU-ALEXANDRU EUGEN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "GORJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "TALVESCU DRAGOS",
+        "Role": "SENAT"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PUICAN FLORIN-IULIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "JIPA ALEXANDRU-IONUT",
+        "Role": "SENAT"
+    },
+    {
+        "County": "IAŞI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "APETRII BOGDAN-ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ARDELEAN OLIMPIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MARAMUREŞ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CHIRILA OANA-ALEXANDRA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUREŞ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CHEREJI MIHAI-NICOLAE",
+        "Role": "SENAT"
+    },
+    {
+        "County": "NEAMŢ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "TUGUI MATEI-ION",
+        "Role": "SENAT"
+    },
+    {
+        "County": "OLT",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "FLOREA IONEL",
+        "Role": "SENAT"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PATRU ANDREI-GEORGIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "FÜLÖP TIHAMÉR",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BICU ALEXANDRU-VALENTIN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "SUCEAVA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ALDEA ELENA-MADALINA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "JITEA BOGDAN-ALEXANDRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "TIMIŞ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "RADA MIHAI-DUMITRU",
+        "Role": "SENAT"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CRISTEA STEFAN-SEBASTIAN",
+        "Role": "SENAT"
+    },
+    {
+        "County": "MUNICIPIUL BUCUREŞTI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CICEALA ANA-MARIA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "GASPAR IOANA",
+        "Role": "SENAT"
+    },
+    {
+        "County": "ALBA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "TUDOROIU CRISTINA-EUGENIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARAD",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ISPRAVNIC ALEXANDRE-VICTOR",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CZOBOR FRANCISC",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ARGEŞ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "SALCIANU ALINA-GEORGIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BACAU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "UNGUREANU ANDREEA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "VERZES OANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BIHOR",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PETREHELE-TODORAN RAZVAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CALUGAR CRISTINA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BISTRIŢA-NASAUD",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ANDREICA SEBASTIAN-GRIGORE",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BOTOŞANI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "SOCOR STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BENGA TUDOR-VLAD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAŞOV",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "STANCIU MARIA-ANDRADA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BRAILA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "VASILE MIHAIL-RAUL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUZAU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "IVAN ALIN-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CARAŞ-SEVERIN",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ROMANESCU CLAUDIA-STEFANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CALARAŞI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CALIN GEORGE-EDUARD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MARTON ATTILA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CLUJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "IUSCO LENUTA-GABRIELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "COSOR DIANA-GEORGIANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "CONSTANŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "NASTASE ALEXANDRA-MIHAELA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "COVASNA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BOLOLOI CRISTIAN-MARIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DAMBOVIŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CONSTANTIN MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "DOLJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CLENCIU DANIEL-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GALAŢI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "VICLEANU-IOAN ROXANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PINTENARU LAURA-OLGUTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GIURGIU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "GOANTA ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "GORJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BURLAN SERBAN-TIBERIU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HARGHITA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "OBRISCA PAUL-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BORZA ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "HUNEDOARA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "FATOL SINZIANA-IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IALOMIŢA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "VLAD KARINA-ELENA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IASI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "AIONESEI ELENA-DENISA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "IASI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ILISANU LARISA-LIVIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "POPESCU IOANA-CRISTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "ILFOV",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "KANAAN AHMAD",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MARAMURES",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ZAHARIA BOGDAN-ANDREI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MEHEDINTI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "COCOSILA CATALIN-IONUT",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "MURES",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "STINGHE RADU-CALIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "NEAMT",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ANGHEL-CUCU IOANA-CRISTINA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "OLT",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CONSTANTIN DANUT-ALEXANDRU",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MATEI JULIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "PRAHOVA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PADURARU ROXANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SATU MARE",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "CHILIAN BOGDAN-STEFAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SALAJ",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "COSMA TEODOR-MIHAI",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "RADU IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "SIBIU",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "TURC ANTONIO-IOAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TELEORMAN",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "SIMIHALEANU LIVIU-GABRIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIS",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MOTI DANIEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TIMIS",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ZAMFIRESCU FLAVIA-IULIA-MARIA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "TULCEA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MOVILA CATALIN-PAVEL",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VASLUI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "LAZAR CIPRIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VALCEA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "GHITESCU ANTOANETA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "NALTU MIHAI-CRISTIAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "VRANCEA",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MOLDOVEANU IOANA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUCURESTI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "PRESADA FLORINA-RALUCA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "BUCURESTI",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "MACSUT ANDREI-COSMIN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "ANCUTA TUDOR-DAN",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "Diaspora",
+        "Party": "SANATATE EDUCAŢIE NATURA SUSTENABILITATE",
+        "Name": "BELU MARIA-BERTA",
+        "Role": "CAMERA DEPUTATILOR"
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    },
+    {
+        "County": "",
+        "Party": "",
+        "Name": "",
+        "Role": ""
+    }
+]
